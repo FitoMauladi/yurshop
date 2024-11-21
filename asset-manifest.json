@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/toko-sayuran/static/css/main.52ca2c1c.css",
+    "main.js": "/toko-sayuran/static/js/main.cfba077c.js",
+    "index.html": "/toko-sayuran/index.html",
+    "main.52ca2c1c.css.map": "/toko-sayuran/static/css/main.52ca2c1c.css.map",
+    "main.cfba077c.js.map": "/toko-sayuran/static/js/main.cfba077c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52ca2c1c.css",
+    "static/js/main.cfba077c.js"
+  ]
+}
