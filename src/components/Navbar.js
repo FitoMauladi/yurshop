@@ -39,8 +39,13 @@ const Navbar = () => {
       >
         <div className="container mx-auto px-4 flex justify-between items-center h-full">
           {/* Logo */}
-          <div className="text-2xl font-bold text-white">
-            Yur <span className="text-green-300">Shop</span>
+          <div className="h-full flex items-center">
+            <img
+              src="mainLogo.png"
+              alt="Logo"
+              className="object-contain"
+              style={{ maxHeight: '50px', padding: '5px' }}
+            />
           </div>
 
           {/* Hamburger Menu Button */}
